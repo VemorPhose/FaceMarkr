@@ -1,2 +1,1 @@
-# facerec_attendance
-Amogus
+amo amo gus gus
