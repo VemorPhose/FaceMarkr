@@ -1,3 +1,1 @@
-face recognition tool designed using the face_recognition library, as well as opencv.
-it is designed to be an attendance system for a class of students
-with database integration in the form of spreadsheets or an sql database.
+An intelligent face recognition-based attendance system that captures video from an external camera, matches faces with a database of images of your choice, and automatically logs attendance. The system supports both MySQL and CSV exports for seamless integration with class lists.
